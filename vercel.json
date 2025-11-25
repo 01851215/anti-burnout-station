@@ -1,7 +1,5 @@
-cat <<EOF > vercel.json
 {
   "framework": "vite",
   "buildCommand": "vite build",
   "outputDirectory": "dist"
 }
-EOF
